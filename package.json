@@ -1,0 +1,16 @@
+{
+	"name": "myresume",
+	"version": "1.0.0",
+	"description": "Thanks for downloading this template!",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm run lite",
+		"lite": "lite-server",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Justin Newton",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
